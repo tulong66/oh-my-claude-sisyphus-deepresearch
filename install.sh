@@ -4,7 +4,7 @@
 
 set -e
 
-REPO_URL="https://raw.githubusercontent.com/deepzen/oh-my-claude-sisyphus-deepresearch/main"
+REPO_URL="https://raw.githubusercontent.com/tulong66/oh-my-claude-sisyphus-deepresearch/main"
 CLAUDE_DIR="$HOME/.claude"
 
 echo "🔬 Installing oh-my-claude-sisyphus-deepresearch..."
