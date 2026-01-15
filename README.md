@@ -12,7 +12,7 @@ curl -fsSL https://raw.githubusercontent.com/Yeachan-Heo/oh-my-claude-sisyphus/m
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/deepzen-me/oh-my-claude-sisyphus-deepresearch/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/deepzen/oh-my-claude-sisyphus-deepresearch/main/install.sh | bash
 ```
 
 ## Features
@@ -63,7 +63,7 @@ curl -fsSL https://raw.githubusercontent.com/Yeachan-Heo/oh-my-claude-sisyphus/m
 
 ### Upgrade Deep Research Extension
 ```bash
-curl -fsSL https://raw.githubusercontent.com/deepzen-me/oh-my-claude-sisyphus-deepresearch/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/deepzen/oh-my-claude-sisyphus-deepresearch/main/install.sh | bash
 ```
 
 ## License
