@@ -1,0 +1,22 @@
+{
+  "normalization": {
+    "lowercase": true,
+    "singularize": true,
+    "stem": true,
+    "prefer_english": true
+  },
+  "stem_rules": {
+    "trading": "trade",
+    "strategies": "strategy",
+    "arbitraging": "arbitrage",
+    "analyzing": "analysis",
+    "researching": "research"
+  },
+  "canonical": {
+    "trade": ["trading", "trades", "traded", "交易"],
+    "strategy": ["strategies", "策略", "方法", "打法"],
+    "arbitrage": ["arbitraging", "arb", "套利", "价差交易"],
+    "research": ["researching", "研究", "调研"],
+    "analysis": ["analyzing", "分析", "解析"]
+  }
+}
